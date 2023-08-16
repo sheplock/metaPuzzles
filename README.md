@@ -8,5 +8,7 @@ Progress is summarized below:
 * Warmup: 3/3 completed
 * Level 1: 7/7 completed
 * Level 2: 0/8 completed
+  * 1 in progress, 34/39 test cases solved
+  * 7 not attempted  
 * Level 3: 0/4 completed
 * Level 4: 0/2 completed
